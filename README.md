@@ -1,4 +1,4 @@
-# Machine_Learning_Trading_Bot
+# Machine Learning Trading Bot
 
 This challenge required the comparing of the SVM and Logistics Regression Models and how effective they are, along with how their accuracy and performance changes by altering the time frame the bot works and altering the SMA.
 
